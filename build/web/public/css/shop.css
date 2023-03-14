@@ -1,0 +1,254 @@
+.top-header {
+    background-color: black;
+    height: 50px;
+    align-items: center;
+    display: flex;
+}
+.content-header{
+    text-align: center;
+}
+.contact-icon {
+    text-decoration: none;
+    color: white;
+    font-family: Muli, sans-serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+    list-style: none;
+}
+
+.contact-icon a {
+    text-decoration: none;
+    color: white;
+    font-family: Muli, sans-serif;
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+
+.infor {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+}
+
+.infor-icon {
+    margin-left: 30px;
+}
+
+.infor-icon a {
+    text-decoration: none;
+    color: white;
+    font-family: Muli, sans-serif;
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+
+.content header {
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+.left {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 150px;
+    padding: 40px;
+}
+
+.left-icon img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-image: url("../images/background-pattern.png");
+    background-repeat: repeat;
+    margin-left: 40px;
+}
+
+.center {
+    padding: 40px;
+
+}
+
+.center-logo img {
+    height: 100px;
+    width: auto;
+    text-align: center;
+}
+
+.right {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 150px;
+    padding: 40px;
+}
+
+.right-icon img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-image: url("../images/background-pattern.png");
+    background-repeat: repeat;
+    margin-left: 40px;
+}
+
+/*Menu*/
+.menu-task{
+    margin-left: 260px;
+    margin-bottom: 20px;
+}
+
+.menu__list {
+    display: flex;
+    align-items: center;
+    list-style: none;
+
+}
+
+.menu__item {
+    margin: 0 3rem;
+
+}
+
+.menu__link {
+    color: black;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 45px;
+    font-family: serif;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.sort {
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 200px;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.product-image {
+    width: 280px;
+    height: 320px;
+}
+
+.product-rate {
+    width: 70px;
+    height: 20px;
+    margin-left: 80px;
+}
+
+.product-infor {
+    text-decoration: none;
+    color: rgb(73, 30, 0);
+    font-family: serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.product-price {
+    text-decoration: none;
+    color: black;
+}
+
+.categories {
+    display: flex;
+    flex-direction: column;
+    padding-top: 70px;
+    padding-left: 100px;
+    line-height: 2.5rem;
+
+}
+
+.categories-title {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: serif;
+}
+.popular{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.bestsell img{
+    width: 200px;
+    height: 210px;
+    margin: 10px 0;
+}
+
+.top-footer {
+    background-color:black;
+    width: 100%;
+    height: 300px;
+    align-items: center;
+    display: flex;
+    margin-top: 50px;
+}
+.about_widget{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: rgb(233, 237, 240);
+    width: 250px;
+    height: 200px;
+}
+.pana{
+    padding-bottom: 10px;
+}
+.widget-title{
+    font-size: 25px;
+    font-family: serif;
+    margin-left: 40px;
+    color:rgb(233, 237, 240) ;
+    padding-top: 20px;
+}
+.footer-infor{
+    color:rgb(233, 237, 240);
+    font-family:Muli, sans-serif;
+    font-size: 15px;
+    list-style: none;
+    line-height: 2rem;
+    margin-left: 10px;
+}
+.footer-infor-icon a{
+    text-decoration: none;
+    color:rgb(233, 237, 240);
+    font-family:serif;
+}
+.widget-blog{
+    text-decoration: none;
+    color:rgb(233, 237, 240);
+    margin-left: 40px;
+}
+.blog{
+    width: 80px;
+    height: 80px;
+    margin-right: 5px;
+}
+.social{
+    padding-top: 50px;
+    text-align: right;
+
+}
+.social-copyright{
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+    font-size: 12px;
+}
+.product{
+    text-decoration: none;
+} 
+
+  
+
+  
+
+  
+
+ 
+
+

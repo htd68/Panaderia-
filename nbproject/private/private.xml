@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/public/css/cart.css</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/admin/product/CreateProductServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/public/admin/js/scripts.js</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/public/css/login.css</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/data/model/OrderDetailSession.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/admin/DashboardServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/admin/order/IndexOrderServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/inc/header.jsp</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/data/dao/ProductDao.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/ProductDetailServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/admin/orderdetail/show.jsp</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/admin/order/edit.jsp</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/public/css/blogdetail.css</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/admin/product/edit.jsp</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/admin/product/EditProductServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/public/css/shop.css</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/cart.jsp</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/product-detail.jsp</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/data/impl/ProductDaoImpl.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/public/css/productdetail.css</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/public/css/style.css</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/public/css/category.css</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/admin/category/create.jsp</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/admin/product/DeleteProductServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/ShopServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/admin/product/index.jsp</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/public/css/blog.css</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/admin/order/index.jsp</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/data/dao/OrderDao.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/data/model/Product.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/data/model/OrderDetail.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/admin/product/IndexProductServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/admin/category/index.jsp</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/data/impl/OrderDaoImpl.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/category.jsp</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/CategoryServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/data/model/Order.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/admin/dashboard.jsp</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/admin/order/EditOrderServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/src/java/duy/dev/admin/orderdetail/OrderDetailServlet.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/Panaderia/web/shop.jsp</file>
+        </group>
+    </open-files>
+</project-private>

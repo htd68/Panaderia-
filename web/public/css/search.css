@@ -1,0 +1,253 @@
+.top-header {
+    background-color: black;
+    height: 50px;
+    align-items: center;
+    display: flex;
+}
+
+.contact-icon {
+    text-decoration: none;
+    color: white;
+    font-family: Muli, sans-serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+    list-style: none;
+}
+
+.contact-icon a {
+    text-decoration: none;
+    color: white;
+    font-family: Muli, sans-serif;
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+
+.infor {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+}
+
+.infor-icon {
+    margin-left: 30px;
+}
+
+.infor-icon a {
+    text-decoration: none;
+    color: white;
+    font-family: Muli, sans-serif;
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+
+.content header {
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+.left {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 150px;
+    padding: 40px;
+    padding-left: 0;
+}
+
+.left-icon img {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    background-image: url("../images/background-pattern.png");
+    background-repeat: repeat;
+    margin-left: 40px;
+}
+
+.center {
+    padding: 40px;
+
+}
+
+.center-logo img {
+    height: 100px;
+    width: auto;
+    text-align: center;
+}
+
+.right {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 150px;
+    padding: 40px;
+}
+
+.right-icon img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-image: url("../images/background-pattern.png");
+    background-repeat: repeat;
+    margin-left: 40px;
+}
+
+/*Menu*/
+.menu {
+    margin-left: 20%;
+    position: relative;
+    z-index: 2;
+
+}
+
+.menu__list {
+    display: flex;
+    align-items: center;
+    list-style: none;
+
+}
+
+.menu__item {
+    margin: 0 3rem;
+
+}
+
+.menu__link {
+    color: black;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 45px;
+    font-family: serif;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+
+.search {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.search-form {
+    height: 100px;
+    margin-left: 230px;
+}
+
+.form-control {
+    height: 70px;
+    width: 700px;
+}
+
+.about__item {
+    margin: 5px;
+    width: 450px;
+    height: 300px;
+}
+
+.introduct {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url("../images/masonry-gallery-15.jpg");
+}
+
+.introduct-wrap {
+    text-align: center;
+    font-size: 13px;
+    font-family: serif;
+    line-height: 1.5em;
+    letter-spacing: .15em;
+    color: #000;
+
+}
+
+.text {
+    font-size: 30px;
+    line-height: 1.23em;
+    font-weight: 400;
+}
+
+.btn__icon {
+    text-decoration: none;
+    display: inline-block;
+    border: 0;
+    padding: 1.5rem 2.5rem;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    line-height: 8px;
+    font-weight: 500;
+    background-color: #000;
+    margin: 20px 0 9px;
+}
+
+.btn__icon:hover {
+    background-color: rgb(168, 146, 16);
+}
+
+.top-footer {
+    margin-top: 50px;
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    align-items: center;
+    display: flex;
+}
+
+.about_widget {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: rgb(233, 237, 240);
+    width: 250px;
+    height: 200px;
+}
+
+.pana {
+    padding-bottom: 10px;
+}
+
+.widget-title {
+    font-size: 25px;
+    font-family: serif;
+    margin-left: 40px;
+    color: rgb(233, 237, 240);
+    padding-top: 20px;
+}
+
+.footer-infor {
+    color: rgb(233, 237, 240);
+    font-family: Muli, sans-serif;
+    font-size: 15px;
+    list-style: none;
+    line-height: 2rem;
+    margin-left: 10px;
+}
+
+.footer-infor-icon a {
+    text-decoration: none;
+    color: rgb(233, 237, 240);
+    font-family: serif;
+}
+
+.widget-blog {
+    text-decoration: none;
+    color: rgb(233, 237, 240);
+    margin-left: 40px;
+}
+
+.blog {
+    width: 80px;
+    height: 80px;
+    margin-right: 5px;
+}
+
+.social {
+    padding-top: 50px;
+    text-align: right;
+
+}
+
+.social-copyright {
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+    font-size: 12px;
+}
